@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Seção 12\\Xadrez-console\\Secao12-JogoXadrezConsole\\Xadrez-console\\Xadrez-console.csproj": {}
+    "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Seção 12\\Secao12-JogoXadrezConsole\\Xadrez-console\\Xadrez-console.csproj": {}
   },
   "projects": {
-    "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Seção 12\\Xadrez-console\\Secao12-JogoXadrezConsole\\Xadrez-console\\Xadrez-console.csproj": {
+    "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Seção 12\\Secao12-JogoXadrezConsole\\Xadrez-console\\Xadrez-console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Seção 12\\Xadrez-console\\Secao12-JogoXadrezConsole\\Xadrez-console\\Xadrez-console.csproj",
+        "projectUniqueName": "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Seção 12\\Secao12-JogoXadrezConsole\\Xadrez-console\\Xadrez-console.csproj",
         "projectName": "Xadrez-console",
-        "projectPath": "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Seção 12\\Xadrez-console\\Secao12-JogoXadrezConsole\\Xadrez-console\\Xadrez-console.csproj",
+        "projectPath": "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Seção 12\\Secao12-JogoXadrezConsole\\Xadrez-console\\Xadrez-console.csproj",
         "packagesPath": "C:\\Users\\igort\\.nuget\\packages\\",
-        "outputPath": "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Seção 12\\Xadrez-console\\Secao12-JogoXadrezConsole\\Xadrez-console\\obj\\",
+        "outputPath": "C:\\MMIS\\01 - CURSOS\\Udemy\\C#\\Seção 12\\Secao12-JogoXadrezConsole\\Xadrez-console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
